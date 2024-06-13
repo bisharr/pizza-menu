@@ -171,6 +171,7 @@ body {
   background-color: #edc84b;
   padding: 1.4rem 3.2rem;
   cursor: pointer;
+  border-radius: 0.2rem;
   transition: all 0.2s;
 }
 
